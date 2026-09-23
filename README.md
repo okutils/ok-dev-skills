@@ -3,5 +3,5 @@
 ## 安装
 
 ```bash
-npx skills okutils/ok-dev-skills
+npx skills add okutils/ok-dev-skills
 ```
